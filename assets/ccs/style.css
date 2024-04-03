@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:  black;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    letter-spacing: 0px;
+    color: white;
+    
+}
+.header{
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 0px;
+    opacity: 1;
+    
+}
+.main1 img{
+    image-resolution: 100%;
+}
+.main1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 75px;
+}
+.main1 p{
+    text-align: justify;
+    width: 475px;
+}
+.section2 {
+    padding: 75px;
+    background-color: #1E1A13;
+}
+.section2 div{
+    font-size: 25px;
+    display: flex;
+    justify-content: space-around;
+}  
+.section2 div div{
+    flex-direction: column;
+    align-items: center;
+
+}
+.section1{
+    margin: 50px 0 50px 0
+}
+
+.imagen1{
+    width: 399px;
+    height: 237px;
+}
+h2{
+    font-size: 40px;
+    color: white(123, 0, 0);
+    text-align: center;
+    padding-bottom: 40px;
+}
+.section3{
+    padding: 73px;
+    display: flex;
+    justify-content: space-around;
+    gap: 16px;
+}
+.section3 div img{
+    width: 316px;
+    height: 202px;
+    margin: 0 8px 0 8px
+}
+footer{
+    background-color: #1E1A13;
+    display: flex;
+    justify-content: center;
+    padding: 39px;
+}
+footer a{
+    color: white;
+    text-decoration: none;  
+}
+a:hover{
+    background-color: #1E1A13;
+}
+i{
+    font-size: 60px;
+    margin: 10px;
+}
+  
